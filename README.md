@@ -1,0 +1,2 @@
+# Grimoire
+A notion clone
