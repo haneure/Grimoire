@@ -78,7 +78,6 @@ export const DocumentList = ({
                         level={level}
                         onExpand={() => onExpand(document._id)}
                         expanded={expanded[document._id]}
-                        isSearch={false}
                     />
                     {expanded[document._id] && (
                         <DocumentList
